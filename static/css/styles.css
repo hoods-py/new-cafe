@@ -1,0 +1,44 @@
+body {
+background-color: #333;
+color: white;
+}
+
+a {
+    color: #ffc107;
+}
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  margin: 0;
+  height: 100vh;
+  color: white;
+  background-color: #333;
+}
+
+.space-above {
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.space-below {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+.panel-title {
+    color: #333;
+}
+.panel-body {
+    color: #f8f8f8;
+}
+
+.panel {
+    background-color: #2c2c2c;
+}
+
+.panel-accent {
+    background-color: #4CAF50; /* or another accent color */
+    color: #fff; /* text color for the accent element */
+}
+
